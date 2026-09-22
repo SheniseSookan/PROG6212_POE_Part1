@@ -8,7 +8,8 @@
 * **Participant:** Registers an account, browses upcoming events, enters specific race categories, and views personal results.
 
 ## CI/CD Status
-As per Yusra Adnan's announcement on Sept 22, the GitHub Actions limit has been reached. The CI/CD workflow validation is pending the limit reset next week.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c0d3312-d901-4aef-b4eb-c710645ee542" />
+
 
 ## Video Presentation
 **YouTube Link:** [https://youtu.be/Dekqwh1_XGk]
