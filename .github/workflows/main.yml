@@ -1,0 +1,8 @@
+name: Part 1 CI Workflow
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run CI Validation
+        run: echo "Workflow triggered successfully. Pending limit reset."
